@@ -1,2 +1,2 @@
 # R-visualization
-all R-fundamentals &amp; data-visualization , data-mining with R
+All R-fundamentals &amp; data-visualization , data-mining with R
