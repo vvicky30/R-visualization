@@ -1,0 +1,6 @@
+   chicago newyork houston sanfrancisco
+AvgHigh_F       "Jul"   "Jul"   "Jul"   "Sep"       
+AvgLow_F        "Jul"   "Jul"   "Jul"   "Aug"       
+AvgPrecip_inch  "May"   "Jul"   "Jun"   "Dec"       
+DaysWithPrecip  "Mar"   "Mar"   "Jun"   "Jan"       
+HoursOfSunshine "Jul"   "Jul"   "Jul"   "Jun" 

@@ -1,0 +1,6 @@
+  chicago newyork houston sanfrancisco
+AvgHigh_F         84.00   85.00   94.00        70.00
+AvgLow_F          68.00   70.00   75.00        55.00
+AvgPrecip_inch     4.13    4.53    5.91         4.57
+DaysWithPrecip    11.00   12.00   10.00        11.00
+HoursOfSunshine  318.00  302.00  294.00       330.00
