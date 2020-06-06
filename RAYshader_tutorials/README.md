@@ -119,7 +119,7 @@ ggplot2 objects:
 All of these functions are designed to be used with the magrittr pipe
 `%>%`.
 
-## Usage
+## Usage:
 
 Rayshader can be used for two purposes: both creating hillshaded maps
 and 3D data visualizations plots.
