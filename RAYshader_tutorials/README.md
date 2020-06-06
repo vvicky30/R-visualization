@@ -1,6 +1,6 @@
-# rayshader<img src="man/figures/raylogosmall.png" align="right" />
+# rayshader<img src="Util_read/rayshader_logo.png" align="right" />
 
-<img src="man/figures/smallhobart.gif" ></img>
+<img src="man/hill_sun_angle.gif" ></img>
 
 ## Overview
 
